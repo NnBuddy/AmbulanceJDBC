@@ -1,0 +1,5 @@
+config.properties
+*.class
+schema-report.txt
+.DS_Store
+.vscode/

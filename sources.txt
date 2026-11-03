@@ -1,0 +1,8 @@
+src/main/java/ui/TableManagementPanel.java
+src/main/java/ui/MainFrame.java
+src/main/java/ui/DashboardPanel.java
+src/main/java/ui/RecordFormDialog.java
+src/main/java/app/Main.java
+src/main/java/config/DatabaseConfig.java
+src/main/java/dao/DatabaseMetadataDAO.java
+src/main/java/dao/GenericTableDAO.java
